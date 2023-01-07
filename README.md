@@ -7,4 +7,5 @@
 4. Electrophysiology
 5. Whole Brain Imaging and Recording
 6. Regeneration and Cells Reprogramming
+
 Each module includes a case study.
